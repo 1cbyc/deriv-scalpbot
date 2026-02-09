@@ -1,0 +1,25 @@
+# Auto detect text files
+* text=auto
+
+# Python files
+*.py text eol=lf
+*.pyx text eol=lf
+
+# Config files
+*.env text eol=lf
+*.ini text eol=lf
+*.yaml text eol=lf
+*.yml text eol=lf
+*.toml text eol=lf
+
+# Documentation
+*.md text eol=lf
+*.txt text eol=lf
+
+# Scripts
+*.sh text eol=lf
+
+# Ensure line endings are correct
+requirements.txt text eol=lf
+.gitignore text eol=lf
+.gitattributes text eol=lf
