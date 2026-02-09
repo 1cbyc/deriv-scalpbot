@@ -61,3 +61,7 @@ Thumbs.db
 personal-docs/
 trade-alerts/
 SECURITY_AUDIT_COMPLETE.md
+
+# Shell scripts (automation)
+*.sh
+auto.sh
